@@ -1,6 +1,6 @@
 [
   {
     "cmd": "touch ssh",
-    "note": "create ssh file",
+    "note": "create ssh file"
   }
 ]
