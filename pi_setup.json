@@ -1,15 +1,11 @@
 [
   {
-   "cmd": "cd /Volumes/boot",
-   "note": "change directory"
-  },
-  {
-   "cmd": "touch ssh",
+   "cmd": "touch /Volumes/boot/ssh",
    "note": "create ssh file"
   },
   {
     "cmd": "touch /Volumes/boot/wpa_supplicant.conf",
-    "note": "create wpa_supplicant file"
+    "note": "creates wpa_supplicant file"
   },
   {
     "cmd": "nano /Volumes/boot/wpa_supplicant.conf",
