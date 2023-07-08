@@ -34,5 +34,9 @@
   {
    "cmd": "source <name>/bin/activate",
    "note": "start virtual environment"
+  },
+  {
+   "cmd": "pip3 install bs4",
+   "note": "install beautiiful soup"
   }
 ]
