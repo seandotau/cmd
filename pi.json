@@ -1,14 +1,28 @@
 [
   {
-     "cmd": "cd /Volumes/boot",
-     "note": "change directory"
-   },
-   {
-     "cmd": "touch ssh",
-     "note": "create ssh file"
-   },
-   {
-      "cmd": "touch ssh",
-      "note": "create ssh file"
-   }
+   "cmd": "cd /Volumes/boot",
+   "note": "change directory"
+  },
+  {
+   "cmd": "touch ssh",
+   "note": "create ssh file"
+  },
+  {
+    "cmd": "touch /Volumes/boot/wpa_supplicant.conf",
+    "note": "create wpa_supplicant file"
+  },
+  {
+    "cmd": "nano /Volumes/boot/wpa_supplicant.conf",
+    "note": "open wpa_supplicant file"
+  },
+  {
+    "cmd": "country=AU
+            update_config=1
+            ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+            network={
+              ssid="your_wifi_ssid"
+              psk="your_wifi_password"
+              key_mgmt=WPA-PSK
+            }",
+    "note": "content of wpa_supplicant file"
 ]
