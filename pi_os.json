@@ -54,5 +54,9 @@
   {
    "cmd": "sudo apt install chromium-chromedriver --yes",
    "note": "install mysql connector"
+  },
+  {
+   "cmd": "apt install xvfb --yes",
+   "note": "install X Virtual Frame Buffer"
   }
 ]
