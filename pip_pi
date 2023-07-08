@@ -8,6 +8,10 @@
    "note": "get pip version"
   },
   {
+   "cmd": "pip list",
+   "note": "list pip packages"
+  },
+  {
    "cmd": "pip3 install virtualenv",
    "note": "install virtualenv"
   },
