@@ -12,6 +12,10 @@
    "note": "disk free -human readable"
   },
   {
+   "cmd": "cat /etc/wpa_supplicant/wpa_supplicant.conf",
+   "note": "view WiFi details"
+  },
+  {
     "cmd": "cat /etc/os-release",
     "note": "OS version"
   },
