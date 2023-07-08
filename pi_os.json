@@ -38,11 +38,13 @@
   {
     "cmd": "env | sort | head -n 5",
     "note": "sort & view top 5 environment variables "
-    
   },
   {
     "cmd": "pip list",
     "note": "list python packages"
-    
+  },
+  {
+    "cmd": ". ~/.bash_profile",
+    "note": "update bash_profile" 
   }
 ]
