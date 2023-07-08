@@ -26,6 +26,10 @@
   {
    "cmd": "which virtualenv",
    "note": "get virtualenv location"
+  },
+  {
+   "cmd": "virtualenv -p <python3 location> <name>v",
+   "note": "create a virtual environment"
   }
 ]
 
