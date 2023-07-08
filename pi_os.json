@@ -1,5 +1,9 @@
 [
   {
+   "cmd": "ssh pi@raspberrypi.locao",
+   "note": "ssh"
+  },
+  {
    "cmd": "uname -a",
    "note": "UNIX name -all"
   },
