@@ -40,6 +40,10 @@
    "note": "install beautiiful soup"
   },
   {
+   "cmd": "pip3 install mysql-connector-python",
+   "note": "install mysql"
+  },
+  {
    "cmd": "pip install selenium",
    "note": "install selenium"
   },
