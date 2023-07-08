@@ -70,5 +70,9 @@
   {
    "cmd": "5 * * * * python ./home/pi/<scriptname>",
    "note": "run script every 5 mins"
+  },
+  {
+   "cmd": "sudo grep CRON /var/log/syslog",
+   "note": "view cronjob logs"
   }
 ]
