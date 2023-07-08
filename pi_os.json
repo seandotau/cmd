@@ -58,5 +58,9 @@
   {
    "cmd": "apt install xvfb --yes",
    "note": "install X Virtual Frame Buffer"
+  },
+  {
+   "cmd": "crontab -l",
+   "note": "list cron jobs"
   }
 ]
