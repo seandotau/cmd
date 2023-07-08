@@ -1,0 +1,10 @@
+[
+  {
+   "cmd": "sudo apt install python3",
+   "note": "install python3"
+  },
+  {
+   "cmd": "python3 --version",
+   "note": "get python3 version"
+  }
+]
