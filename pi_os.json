@@ -1,6 +1,6 @@
 [
   {
-   "cmd": "ssh pi@raspberrypi.locao",
+   "cmd": "ssh pi@raspberrypi.local",
    "note": "ssh"
   },
   {
