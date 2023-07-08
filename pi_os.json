@@ -50,5 +50,9 @@
   {
     "cmd": ".scp <name> pi@<ip>:<venv_location>",
     "note": "copy file to pi" 
+  },
+  {
+   "cmd": "sudo apt install chromium-chromedriver --yes",
+   "note": "install mysql connector"
   }
 ]
