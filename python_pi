@@ -10,5 +10,13 @@
   {
    "cmd": "which python3",
    "note": "get python3 location"
+  },
+  {
+   "cmd": "sudo apt install python3-pip",
+   "note": "install pip"
+  },
+  {
+   "cmd": "pip -V",
+   "note": "get pip version"
   }
 ]
