@@ -18,4 +18,5 @@
   {
     "cmd": "country=AU\nupdate_config=1\nctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev\nnetwork={\nssid=\"your_wifi_ssid\"\npsk=\"your_wifi_password\"\nkey_mgmt=WPA-PSK\n}",
     "note": "content of wpa_supplicant file"
+  }
 ]
