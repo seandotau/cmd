@@ -1,0 +1,34 @@
+[
+  {
+   "cmd": "sudo apt install python3-pip",
+   "note": "install pip"
+  },
+  {
+   "cmd": "pip -V",
+   "note": "get pip version"
+  },
+  {
+   "cmd": "pip3 install virtualenv",
+   "note": "install virtualenv"
+  },
+  {
+   "cmd": "which virtualenv",
+   "note": "get virtualenv location"
+  },
+  {
+   "cmd": "pip3 install bs4",
+   "note": "install beautiiful soup"
+  },
+  {
+   "cmd": "pip3 install mysql-connector-python",
+   "note": "install mysql"
+  },
+  {
+   "cmd": "pip3 install selenium",
+   "note": "install selenium"
+  },
+  {
+   "cmd": "pip3 install PyVirtualDisplay",
+   "note": "install PyVirtualDisplay"
+  }
+]
