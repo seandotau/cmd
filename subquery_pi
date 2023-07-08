@@ -4,8 +4,16 @@
    "note": "install subquery cli"
   },
   {
+   "cmd": "subql -v",
+   "note": "get cli version"
+  },
+  {
    "cmd": "install -g @subql/node",
    "note": "install subquery indexer node"
+  },
+  {
+   "cmd": "subql-node --version",
+   "note": "get indexing node version"
   },
   {
    "cmd": "npm install -g @subql/query",
