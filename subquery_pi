@@ -1,0 +1,14 @@
+[
+  {
+   "cmd": "npm install -g @subql/cli",
+   "note": "install subquery cli"
+  },
+  {
+   "cmd": "install -g @subql/node",
+   "note": "install subquery indexer node"
+  },
+  {
+   "cmd": "npm install -g @subql/query",
+   "note": "install subquery query service"
+  }
+]
