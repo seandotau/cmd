@@ -18,5 +18,9 @@
   {
    "cmd": "source <name>/bin/activate",
    "note": "start virtual environment"
+  },
+  {
+   "cmd": "deactivate",
+   "note": "stop virtual environment"
   }
 ]
