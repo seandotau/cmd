@@ -6,5 +6,9 @@
   {
    "cmd": "python3 --version",
    "note": "get python3 version"
+  },
+  {
+   "cmd": "which python3",
+   "note": "get python3 location"
   }
 ]
