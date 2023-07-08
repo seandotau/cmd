@@ -42,5 +42,9 @@
   {
    "cmd": "pip install selenium",
    "note": "install selenium"
+  },
+  {
+   "cmd": "pip install PyVirtualDisplay",
+   "note": "install PyVirtualDisplay"
   }
 ]
