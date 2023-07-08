@@ -6,5 +6,9 @@
   {
    "cmd": "node -v",
    "note": "get node version"
+  },
+  {
+   "cmd": "npm -v",
+   "note": "get npm version"
   }
 ]
