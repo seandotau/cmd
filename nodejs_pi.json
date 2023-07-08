@@ -1,0 +1,10 @@
+[
+  {
+   "cmd": "sudo apt install nodejs",
+   "note": "install nodejs"
+  },
+  {
+   "cmd": "node -v",
+   "note": "get node version"
+  }
+]
