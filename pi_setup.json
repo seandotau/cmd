@@ -1,22 +1,18 @@
 [
   {
-   "cmd": "uname -a",
-   "note": "UNIX name -all"
+   "cmd": "cd /Volumes/boot",
+   "note": "change directory"
   },
   {
-   "cmd": "df -h",
-   "note": "disk free -human readable"
+   "cmd": "touch ssh",
+   "note": "create ssh file"
   },
   {
-    "cmd": "cat /etc/os-release",
-    "note": "OS version"
+    "cmd": "touch /Volumes/boot/wpa_supplicant.conf",
+    "note": "create wpa_supplicant file"
   },
   {
-    "cmd": "sudo apt update",
-    "note": "update os"
-  },
-  {
-    "cmd": "sudo apt upgrade",
-    "note": "upgrade os"
+    "cmd": "nano /Volumes/boot/wpa_supplicant.conf",
+    "note": "open wpa_supplicant file"
   }
 ]
