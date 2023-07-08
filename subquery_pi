@@ -1,15 +1,15 @@
 [
   {
    "cmd": "npm install -g @subql/cli",
-   "note": "install subquery cli"
+   "note": "install subquery cli globally"
   },
   {
    "cmd": "subql -v",
    "note": "get cli version"
   },
   {
-   "cmd": "install -g @subql/node",
-   "note": "install subquery indexer node"
+   "cmd": "npm install -g @subql/node",
+   "note": "install subquery indexer node globally"
   },
   {
    "cmd": "subql-node --version",
@@ -17,7 +17,7 @@
   },
   {
    "cmd": "npm install -g @subql/query",
-   "note": "install subquery query service"
+   "note": "install subquery query service globally"
   },
   {
    "cmd": "subql init <projectname>",
