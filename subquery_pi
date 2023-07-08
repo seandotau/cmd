@@ -10,5 +10,21 @@
   {
    "cmd": "npm install -g @subql/query",
    "note": "install subquery query service"
+  },
+  {
+   "cmd": "subql init <projectname>",
+   "note": "initialise starter project"
+  },
+  {
+   "cmd": "npm run-script codegen",
+   "note": "generate types"
+  },
+  {
+   "cmd": "npm run-script build",
+   "note": "build project"
+  },
+  {
+   "cmd": "subquery -f <projectname>",
+   "note": "start indexer"
   }
 ]
