@@ -22,5 +22,11 @@
   {
    "cmd": "pip3 install virtualenv",
    "note": "install virtualenv"
+  },
+  {
+   "cmd": "which virtualenv",
+   "note": "get location of virtualenv"
   }
+]
+
 ]
