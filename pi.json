@@ -1,10 +1,14 @@
 [
-   {
-    "cmd": "cd /Volumes/boot",
-    "note": "change directory",
-  },
   {
-    "cmd": "touch ssh",
-    "note": "create ssh file"
-  }
+     "cmd": "cd /Volumes/boot",
+     "note": "change directory"
+   },
+   {
+     "cmd": "touch ssh",
+     "note": "create ssh file"
+   },
+   {
+      "cmd": "touch ssh",
+      "note": "create ssh file"
+   }
 ]
