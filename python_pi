@@ -18,5 +18,9 @@
   {
    "cmd": "pip -V",
    "note": "get pip version"
+  },
+  {
+   "cmd": "pip3 install virtualenv",
+   "note": "install virtualenv"
   }
 ]
