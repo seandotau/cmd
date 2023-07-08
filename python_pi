@@ -28,7 +28,11 @@
    "note": "get virtualenv location"
   },
   {
-   "cmd": "virtualenv -p <python3 location> <name>v",
+   "cmd": "virtualenv -p <python3 location> <name>",
    "note": "create a virtual environment"
+  },
+  {
+   "cmd": "source <name>/bin/activate",
+   "note": "start virtual environment"
   }
 ]
