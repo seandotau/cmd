@@ -46,5 +46,9 @@
   {
     "cmd": ". ~/.bash_profile",
     "note": "update bash_profile" 
+  },
+  {
+    "cmd": ".scp <name> pi@<ip>:<venv_location>",
+    "note": "copy file to pi" 
   }
 ]
