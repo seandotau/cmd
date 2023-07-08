@@ -4,6 +4,14 @@
    "note": "ssh"
   },
   {
+   "cmd": "curl -OJL <git_raw_file_url>",
+   "note": "download file from github"
+  },
+  {
+   "cmd": "chmod +x <filename>",
+   "note": "make file executable"
+  },
+  {
    "cmd": "uname -a",
    "note": "UNIX name -all"
   },
