@@ -38,5 +38,9 @@
   {
    "cmd": "pip3 install bs4",
    "note": "install beautiiful soup"
+  },
+  {
+   "cmd": "pip install selenium",
+   "note": "install selenium"
   }
 ]
