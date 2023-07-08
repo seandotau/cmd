@@ -1,0 +1,10 @@
+[
+  {
+   "cmd": "sudo apt install postgresql",
+   "note": "install postgresql"
+  },
+  {
+   "cmd": "psql --version",
+   "note": "get version"
+  }
+]
