@@ -25,7 +25,7 @@
   },
   {
    "cmd": "which virtualenv",
-   "note": "get location of virtualenv"
+   "note": "get virtualenv location"
   }
 ]
 
