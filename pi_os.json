@@ -62,5 +62,13 @@
   {
    "cmd": "crontab -l",
    "note": "list cron jobs"
+  },
+  {
+   "cmd": "crontab -e",
+   "note": "edit cron jobs"
+  },
+  {
+   "cmd": "5 * * * * python ./home/pi/<scriptname>",
+   "note": "run script every 5 mins"
   }
 ]
