@@ -40,7 +40,7 @@
    "note": "build project"
   },
   {
-   "cmd": "subquery -f <projectname>",
+   "cmd": "subql-node -f <projectname>",
    "note": "start indexer"
   }
 ]
