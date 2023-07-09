@@ -14,7 +14,7 @@ sudo apt-get install -y nodejs
 sudo apt install -y python3
 
 # Install PIP
-sudo apt install python3-pip
+sudo apt install -y python3-pip
 
 # Verify installations
 node -v
