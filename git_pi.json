@@ -1,0 +1,10 @@
+[
+  {
+   "cmd": "sudo apt install -y git",
+   "note": "install git"
+  },
+  {
+   "cmd": "git --version",
+   "note": "get git version"
+  }
+]
