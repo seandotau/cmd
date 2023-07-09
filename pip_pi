@@ -1,6 +1,6 @@
 [
   {
-   "cmd": "sudo apt install python3-pip",
+   "cmd": "sudo apt install -y python3-pip",
    "note": "install pip"
   },
   {
