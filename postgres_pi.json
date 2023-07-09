@@ -36,6 +36,14 @@
    "note": "show Host Based Authentication file"
   },
   {
+   "cmd": "ALTER USER <username> WITH PASSWORD '<new_password>';",
+   "note": "change password"
+  },
+  {
+   "cmd": "\\password postgres",
+   "note": "change password for postgres user"
+  },
+  {
    "cmd": "\\q",
    "note": "quit"
   },
