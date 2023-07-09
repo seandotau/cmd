@@ -28,11 +28,11 @@
    "note": "log in as postgers User"
   },
   {
-   "cmd": "\q",
+   "cmd": "\\q",
    "note": "quit"
   },
   {
-   "cmd": "\du",
+   "cmd": "\\du",
    "note": "display users"
   }
 ]
