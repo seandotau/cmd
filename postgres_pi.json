@@ -6,5 +6,9 @@
   {
    "cmd": "psql --version",
    "note": "get version"
+  },
+  {
+   "cmd": "\q",
+   "note": "quit"
   }
 ]
