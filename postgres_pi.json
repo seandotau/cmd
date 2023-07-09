@@ -8,6 +8,10 @@
    "note": "get version"
   },
   {
+   "cmd": "sudo systemctl status 'postgresql*'",
+   "note": "get status"
+  },
+  {
    "cmd": "\q",
    "note": "quit"
   }
