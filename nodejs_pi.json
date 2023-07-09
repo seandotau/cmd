@@ -10,5 +10,9 @@
   {
    "cmd": "npm -v",
    "note": "get npm version"
+  },
+  {
+   "cmd": "sudo apt remove -y nodejs",
+   "note": "remove nodejs"
   }
 ]
