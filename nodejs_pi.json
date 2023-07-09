@@ -4,15 +4,15 @@
    "note": "install nodejs"
   },
   {
+   "cmd": "sudo apt remove -y nodejs",
+   "note": "remove nodejs"
+  },
+  {
    "cmd": "node -v",
    "note": "get node version"
   },
   {
    "cmd": "npm -v",
    "note": "get npm version"
-  },
-  {
-   "cmd": "sudo apt remove -y nodejs",
-   "note": "remove nodejs"
   }
 ]
