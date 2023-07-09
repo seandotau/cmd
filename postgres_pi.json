@@ -12,6 +12,18 @@
    "note": "get status"
   },
   {
+   "cmd": "sudo systemctl start postgresql",
+   "note": "start postgresql"
+  },
+  {
+   "cmd": "sudo systemctl stop postgresql",
+   "note": "stop postgresql"
+  },
+  {
+   "cmd": "sudo systemctl restart postgresql",
+   "note": "restart postgresql"
+  },
+  {
    "cmd": "\q",
    "note": "quit"
   }
