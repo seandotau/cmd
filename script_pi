@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Install Node.js
+sudo curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+sudo apt-get install -y nodejs
+#sudo apt install nodejs
+
+# Install Python
+sudo apt install python3
+
+# Install Postgresql
+sudo apt install postgresql
+
+# Install SubQuery CLI
+npm install -g @subql/cli
+
+# Install SubQuery Indexer node
+npm install -g @subql/node
+
+# Verify installations
+node -v
+npm -v
+python3 --version
+psql --version
+subql -v
+subql-node --version
