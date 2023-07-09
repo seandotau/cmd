@@ -28,6 +28,10 @@
    "note": "log in as postgers User"
   },
   {
+   "cmd": "CREATE EXTENSION IF NOT EXISTS btree_gist",
+   "note": ""
+  },
+  {
    "cmd": "SHOW hba_file",
    "note": "show Host Based Authentication file"
   },
