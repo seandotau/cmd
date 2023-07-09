@@ -4,6 +4,10 @@
    "note": "install python3"
   },
   {
+   "cmd": "sudo apt remove -y python3",
+   "note": "remove python3"
+  },
+  {
    "cmd": "python3 --version",
    "note": "get python3 version"
   },
