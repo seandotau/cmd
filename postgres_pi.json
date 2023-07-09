@@ -28,6 +28,10 @@
    "note": "log in as postgers User"
   },
   {
+   "cmd": "SHOW hba_file",
+   "note": "show Host Based Authentication file"
+  },
+  {
    "cmd": "\\q",
    "note": "quit"
   },
