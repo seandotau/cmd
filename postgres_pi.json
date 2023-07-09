@@ -24,7 +24,15 @@
    "note": "restart postgresql"
   },
   {
+   "cmd": "psql -U postgres",
+   "note": "log in as postgers User"
+  },
+  {
    "cmd": "\q",
    "note": "quit"
+  },
+  {
+   "cmd": "\du",
+   "note": "display users"
   }
 ]
