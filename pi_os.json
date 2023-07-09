@@ -8,6 +8,10 @@
    "note": "download file from github"
   },
   {
+   "cmd": "-O, -J, -L",
+   "note": "O: save download using same name as remote, -J: set output name based on remote name, -L: follow redirects"
+  },
+  {
    "cmd": "chmod +x <filename>",
    "note": "make file executable"
   },
