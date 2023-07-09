@@ -1,6 +1,6 @@
 [
   {
-   "cmd": "npm install -g @subql/cli",
+   "cmd": "sudo npm install -g @subql/cli",
    "note": "install subquery cli globally"
   },
   {
@@ -8,7 +8,7 @@
    "note": "get cli version"
   },
   {
-   "cmd": "npm install -g @subql/node",
+   "cmd": "sudo npm install -g @subql/node",
    "note": "install subquery indexer node globally"
   },
   {
@@ -16,7 +16,7 @@
    "note": "get indexing node version"
   },
   {
-   "cmd": "npm install -g @subql/query",
+   "cmd": "sudo npm install -g @subql/query",
    "note": "install subquery query service globally"
   },
   {
