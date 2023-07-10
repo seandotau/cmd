@@ -7,8 +7,8 @@ python3 --version
 pip -V
 git --version
 virtualenv --version
+chromium-browser --version
 chromedriver --version
-chromium --version
 
 # Install Node.js
 sudo curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
@@ -41,5 +41,5 @@ python3 --version
 pip -V
 git --version
 virtualenv --version
+chromium-browser --version
 chromedriver --version
-chromium --version
