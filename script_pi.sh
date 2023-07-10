@@ -7,6 +7,8 @@ python3 --version
 pip -V
 git --version
 virtualenv --version
+chromedriver --version
+chromium --version
 
 # Install Node.js
 sudo curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
@@ -26,6 +28,12 @@ sudo apt install -y git
 pip3 install virtualenv
 sudo mv /home/pi/.local/bin/virtualenv /usr/local/bin/
 
+# Install chromium
+sudo apt install chromium-chromedriver --yes
+
+# Install X virtual frame buffer
+sudo apt install xvfb --yes
+
 # Verify installations
 node -v
 npm -v
@@ -33,3 +41,5 @@ python3 --version
 pip -V
 git --version
 virtualenv --version
+chromedriver --version
+chromium --version
