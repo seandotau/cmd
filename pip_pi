@@ -38,5 +38,9 @@
   {
    "cmd": "pip3 install PyVirtualDisplay",
    "note": "install PyVirtualDisplay"
+  },
+  {
+   "cmd": "pip3 install requests",
+   "note": "install requests"
   }
 ]
