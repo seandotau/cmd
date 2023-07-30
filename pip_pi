@@ -28,6 +28,10 @@
    "note": "install Django"
   },
   {
+   "cmd": "python -c "import django; print(django.get_version())"",
+   "note": "get Django version"
+  },
+  {
    "cmd": "pip3 install bs4",
    "note": "install beautiiful soup"
   },
