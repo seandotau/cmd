@@ -34,5 +34,9 @@
   {
    "cmd": "pyenv version",
    "note": "show current versions"
+  },
+  {
+   "cmd": "pyenv global 3.10",
+   "note": "set python to v3.10"
   }
 ]
