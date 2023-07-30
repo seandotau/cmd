@@ -1,0 +1,6 @@
+[
+  {
+   "cmd": "exec "$SHELL"",
+   "note": "restart shell"
+  }
+]
