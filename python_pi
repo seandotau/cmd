@@ -26,5 +26,13 @@
   {
    "cmd": "deactivate",
    "note": "stop virtual environment"
+  },
+  {
+   "cmd": "pyenv versions",
+   "note": "show installed versions"
+  },
+  {
+   "cmd": "pyenv version",
+   "note": "show current versions"
   }
 ]
