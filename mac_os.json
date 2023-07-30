@@ -1,6 +1,6 @@
 [
   {
-   "cmd": "exec "$SHELL"",
+   "cmd": "exec '$SHELL'",
    "note": "restart shell"
   }
 ]
