@@ -28,7 +28,7 @@
    "note": "install Django"
   },
   {
-   "cmd": "python -c "import django; print(django.get_version())"",
+   "cmd": "python -c 'import django; print(django.get_version())'",
    "note": "get Django version"
   },
   {
