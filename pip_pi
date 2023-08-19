@@ -50,5 +50,9 @@
   {
    "cmd": "pip3 install requests",
    "note": "install requests"
+  },
+  {
+   "cmd": "pip3 install tweepy",
+   "note": "install tweepy"
   }
 ]
