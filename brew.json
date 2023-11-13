@@ -1,0 +1,10 @@
+[
+  {
+   "cmd": "brew search node",
+   "note": "find node packages"
+  },
+  {
+   "cmd": "brew install node@18",
+   "note": "install specific version"
+  }
+]
