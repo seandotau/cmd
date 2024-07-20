@@ -52,7 +52,7 @@
     "note": "update bash_profile" 
   },
   {
-    "cmd": ".scp <name> pi@<ip>:<venv_location>",
+    "cmd": "scp <name> pi@<ip>:<venv_location>",
     "note": "copy file to pi" 
   },
   {
