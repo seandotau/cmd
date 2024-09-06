@@ -6,5 +6,9 @@
   {
    "cmd": "brew install node@18",
    "note": "install specific version"
+  },
+  {
+   "cmd": "brew install tree",
+   "note": "usage tree -L 1 ."
   }
 ]
