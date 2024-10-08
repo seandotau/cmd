@@ -8,7 +8,7 @@
    "note": "refresh shell"
   },
   {
-   "cmd": "grep -rn "text",
+   "cmd": "grep -rn text",
    "note": "Global Regular Expression Print"
   }
 ]
