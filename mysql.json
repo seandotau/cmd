@@ -1,0 +1,6 @@
+[
+  {
+   "cmd": "mysql -u USER -h HOST -p",
+   "note": "connect to mysql via cmd"
+  }
+]
