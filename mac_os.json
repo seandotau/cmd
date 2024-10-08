@@ -6,5 +6,9 @@
   {
    "cmd": "source ~/.zshenv",
    "note": "refresh shell"
+  },
+  {
+   "cmd": "grep -rn "text",
+   "note": "Global Regular Expression Print"
   }
 ]
