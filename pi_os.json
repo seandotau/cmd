@@ -78,5 +78,9 @@
   {
    "cmd": "sudo grep CRON /var/log/syslog",
    "note": "view cronjob logs"
+  },
+  {
+   "cmd": "chromium-browser --version",
+   "note": "get chromium version"
   }
 ]
