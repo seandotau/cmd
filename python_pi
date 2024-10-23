@@ -46,5 +46,9 @@
   {
    "cmd": "python3 -m venv my_venv",
    "note": "create a virtual environment"
+  },
+  {
+   "cmd": "sudo apt install python3-venv",
+   "note": "install venv"
   }
 ]
