@@ -54,5 +54,9 @@
   {
    "cmd": "pip3 install tweepy",
    "note": "install tweepy"
+  },
+  {
+   "cmd": "pip install undetected-chromedriver",
+   "note": "install undetected-chromedriver"
   }
 ]
