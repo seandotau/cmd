@@ -38,5 +38,13 @@
   {
    "cmd": "pyenv global 3.10",
    "note": "set python to v3.10"
+  },
+  {
+   "cmd": "python3 -m venv my_venv",
+   "note": "create a virtual environment"
+  },
+  {
+   "cmd": "python3 -m venv my_venv",
+   "note": "create a virtual environment"
   }
 ]
