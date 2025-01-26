@@ -1,0 +1,38 @@
+[
+  {
+   "cmd": "python3 --version",
+   "note": "get python3 version"
+  },
+  {
+   "cmd": "which python3",
+   "note": "get python3 location"
+  },
+  {
+   "cmd": "pyenv versions",
+   "note": "show installed versions"
+  },
+  {
+   "cmd": "pyenv version",
+   "note": "show current versions"
+  },
+  {
+   "cmd": "pyenv global 3.10",
+   "note": "set python to v3.10"
+  },
+  {
+   "cmd": "virtualenv -p <python3 location> <name>",
+   "note": "create a virtual environment"
+  },
+  {
+   "cmd": "source <name>/bin/activate",
+   "note": "start virtual environment"
+  },
+  {
+   "cmd": "deactivate",
+   "note": "stop virtual environment"
+  },
+  {
+   "cmd": "python3 -m venv my_venv",
+   "note": "create a virtual environment"
+  }
+]
