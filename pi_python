@@ -16,18 +16,6 @@
    "note": "get python3 location"
   },
   {
-   "cmd": "virtualenv -p <python3 location> <name>",
-   "note": "create a virtual environment"
-  },
-  {
-   "cmd": "source <name>/bin/activate",
-   "note": "start virtual environment"
-  },
-  {
-   "cmd": "deactivate",
-   "note": "stop virtual environment"
-  },
-  {
    "cmd": "pyenv versions",
    "note": "show installed versions"
   },
@@ -40,15 +28,23 @@
    "note": "set python to v3.10"
   },
   {
-   "cmd": "python3 -m venv my_venv",
+   "cmd": "virtualenv -p <python3 location> <name>",
    "note": "create a virtual environment"
   },
   {
-   "cmd": "python3 -m venv my_venv",
-   "note": "create a virtual environment"
+   "cmd": "source <name>/bin/activate",
+   "note": "start virtual environment"
+  },
+  {
+   "cmd": "deactivate",
+   "note": "stop virtual environment"
   },
   {
    "cmd": "sudo apt install python3-venv",
    "note": "install venv"
+  }
+  {
+   "cmd": "python3 -m venv my_venv",
+   "note": "create a virtual environment"
   }
 ]
