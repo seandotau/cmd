@@ -13,6 +13,6 @@
   },
    {
    "cmd": "brew install pyenv",
-   "note": "install pyenv for managing env"
+   "note": "manages Python versions"
   }
 ]
