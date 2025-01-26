@@ -14,9 +14,5 @@
   {
    "cmd": "brew install pyenv",
    "note": "manages Python versions"
-  },
-  {
-   "cmd": "brew install pyenv-virtualenv",
-   "note": "installs virtualenv"
   }
 ]
