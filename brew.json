@@ -10,5 +10,9 @@
   {
    "cmd": "brew install tree",
    "note": "usage tree -L 1 ."
+  },
+   {
+   "cmd": "brew install pyenv",
+   "note": "install pyenv for managing env"
   }
 ]
