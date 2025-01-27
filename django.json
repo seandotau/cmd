@@ -14,5 +14,9 @@
   {
    "cmd": "python manage.py showmigrations",
    "note": "show migrations"
+  },
+  {
+   "cmd": "python manage.py migrate",
+   "note": "migrate changes"
   }
 ]
