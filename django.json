@@ -1,0 +1,14 @@
+[
+  {
+   "cmd": "python -m pip install Django",
+   "note": "install Django"
+  },
+  {
+   "cmd": "django-admin startproject myapp .",
+   "note": "create Django project"
+  },
+  {
+   "cmd": "python manage.py runserver",
+   "note": "start Django server"
+  }
+]
