@@ -10,5 +10,9 @@
   {
    "cmd": "python manage.py runserver",
    "note": "start Django server"
+  },
+  {
+   "cmd": "python manage.py showmigrations",
+   "note": "show migrations"
   }
 ]
