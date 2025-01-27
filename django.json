@@ -18,5 +18,9 @@
   {
    "cmd": "python manage.py migrate",
    "note": "migrate changes"
+  },
+  {
+   "cmd": "python manage.py startapp muy_app",
+   "note": "create app"
   }
 ]
