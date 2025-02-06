@@ -1,5 +1,9 @@
 [
   {
+   "cmd": "brew install mysql",
+   "note": "install mysql"
+  },
+  {
    "cmd": "brew search node",
    "note": "find node packages"
   },
