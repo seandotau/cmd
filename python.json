@@ -28,6 +28,10 @@
    "note": "create a virtual environment"
   },
   {
+   "cmd": "pyenv uninstall django",
+   "note": "delete a virtual environment"
+  },
+  {
    "cmd": "pyenv virtualenvs",
    "note": "show virtual environments"
   },
