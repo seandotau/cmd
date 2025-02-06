@@ -4,6 +4,10 @@
    "note": "install mysql"
   },
   {
+   "cmd": "brew uninstall mysql",
+   "note": "uninstall mysql"
+  },
+  {
    "cmd": "brew search node",
    "note": "find node packages"
   },
