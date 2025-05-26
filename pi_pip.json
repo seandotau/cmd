@@ -16,6 +16,10 @@
    "note": "list pip packages"
   },
   {
+   "cmd": "pip show langchain,
+   "note": "show package name & version"
+  },
+  {
    "cmd": "pip3 install virtualenv",
    "note": "install virtualenv"
   },
