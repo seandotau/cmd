@@ -16,7 +16,7 @@
    "note": "list pip packages"
   },
   {
-   "cmd": "pip show langchain,
+   "cmd": "pip show langchain",
    "note": "show package name & version"
   },
   {
