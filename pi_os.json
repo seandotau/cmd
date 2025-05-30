@@ -82,5 +82,9 @@
   {
    "cmd": "chromium-browser --version",
    "note": "get chromium version"
+  },
+  {
+   "cmd": "dmesg -T ",
+   "note": "diagnostic message (human readable)"
   }
 ]
