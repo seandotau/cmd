@@ -12,6 +12,10 @@
    "note": "show installed versions"
   },
   {
+   "cmd": "pyenv install 3.10.0",
+   "note": "install specific version"
+  },
+  {
    "cmd": "pyenv shell 3.13.0",
    "note": "switch python version"
   },
