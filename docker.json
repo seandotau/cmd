@@ -1,0 +1,14 @@
+[
+  {
+   "cmd": "docker images",
+   "note": "list local images"
+  },
+  {
+   "cmd": "docker ps -a",
+   "note": "list all containers"
+  },
+  {
+   "cmd": "docker volume ls",
+   "note": "list volumes"
+  }
+]
