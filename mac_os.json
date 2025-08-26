@@ -4,11 +4,15 @@
    "note": "restart shell"
   },
   {
-   "cmd": "source ~/.zshenv",
-   "note": "refresh shell"
+   "cmd": "env",
+   "note": "prints env vars"
   },
   {
    "cmd": "grep -rn text",
    "note": "Global Regular Expression Print"
+  }
+  {
+   "cmd": "source ~/.zshenv",
+   "note": "refresh shell"
   }
 ]
