@@ -8,6 +8,10 @@
    "note": "get python3 location"
   },
   {
+   "cmd": "pyenv version",
+   "note": "show current versions"
+  },
+  {
    "cmd": "pyenv versions",
    "note": "show installed versions"
   },
@@ -18,10 +22,6 @@
   {
    "cmd": "pyenv shell 3.13.0",
    "note": "switch python version"
-  },
-  {
-   "cmd": "pyenv version",
-   "note": "show current versions"
   },
   {
    "cmd": "pyenv global 3.10",
