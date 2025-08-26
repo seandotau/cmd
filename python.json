@@ -8,12 +8,12 @@
    "note": "get python3 location"
   },
   {
-   "cmd": "pyenv version",
-   "note": "show current versions"
-  },
-  {
    "cmd": "pyenv versions",
    "note": "show installed versions"
+  },
+  {
+   "cmd": "pyenv version",
+   "note": "show current versions"
   },
   {
    "cmd": "pyenv install 3.10.0",
@@ -28,20 +28,20 @@
    "note": "set python to v3.10"
   },
   {
-   "cmd": "pyenv virtualenv 3.13.0 django",
-   "note": "create a virtual environment"
-  },
-  {
-   "cmd": "pyenv uninstall django",
-   "note": "delete a virtual environment"
-  },
-  {
    "cmd": "pyenv virtualenvs",
    "note": "show virtual environments"
   },
   {
+   "cmd": "pyenv virtualenv 3.13.0 django",
+   "note": "create a virtual environment"
+  },
+  {
    "cmd": "pyenv activate django",
    "note": "active an environment"
+  },
+  {
+   "cmd": "pyenv uninstall django",
+   "note": "delete a virtual environment"
   },
   {
    "cmd": "virtualenv -p <python3 location> <name>",
